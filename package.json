@@ -1,0 +1,19 @@
+{
+  "name": "npm-monitor-frontend-sdk",
+  "version": "1.0.1",
+  "description": "a sdk to monitor front end",
+  "keywords": [
+    "LYG-liny777",
+    "utils",
+    "sdk",
+    "monitor",
+    "frontend",
+    "npm"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liny777",
+  "license": "ISC"
+}
